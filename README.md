@@ -1,5 +1,6 @@
 # Future Homes
-How to play
+About Future Homes
+
     Users can buy houses which are on sale or can rent a house.
     Owners can upload pictures of the houses which are on sale or upload houses which are available for rent.
     Admin can view, edit and delete the posts made by the registered users.
